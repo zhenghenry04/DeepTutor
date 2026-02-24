@@ -1,0 +1,216 @@
+# O*NET Occupation Profile: Segmental Pavers
+SOC: 47-4091.00
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Prepare base for installation by removing unstable or unsuitable materials, compacting and grading the soil, draining or stabilizing weak or saturated soils and taking measures to prevent water penetration and migration of bedding sand.
+- Supply and place base materials, edge restraints, bedding sand and jointing sand.
+- Discuss the design with the client.
+- Set pavers, aligning and spacing them correctly.
+- Sweep sand into the joints and compact pavement until the joints are full.
+- Screed sand level to an even thickness, and recheck sand exposed to elements, raking and rescreeding if necessary.
+- Cut paving stones to size and for edges, using a splitter and a masonry saw.
+- Compact bedding sand and pavers to finish the paved area, using a plate compactor.
+- Design paver installation layout pattern and create markings for directional references of joints and stringlines.
+- Sweep sand from the surface prior to opening to traffic.
+- Resurface an outside area with cobblestones, terracotta tiles, concrete or other materials.
+- Cement the edges of the paved area.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- Database software
+- Decorative Software Online Visualizers
+- Depiction Software Deco-Con
+- Depiction Software Deco-Con Estimator
+- Depiction Software Hardscape Imaging
+- Microsoft Excel
+- Microsoft Office software
+- Microsoft PowerPoint
+- Microsoft Word
+- UNI-GROUP Lockpave Pro
+- Web browser software

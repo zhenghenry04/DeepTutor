@@ -1,0 +1,227 @@
+# O*NET Occupation Profile: Plasterers and Stucco Masons
+SOC: 47-2161.00
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Cover surfaces such as windows, doors, or sidewalks to protect from splashing.
+- Clean job sites.
+- Mix mortar and plaster to desired consistency or direct workers who perform mixing.
+- Apply coats of plaster or stucco to walls, ceilings, or partitions of buildings, using trowels, brushes, or spray guns.
+- Set up scaffolds.
+- Determine materials needed to complete the job and place orders accordingly.
+- Apply weatherproof, decorative coverings to exterior surfaces of buildings, such as by troweling or spraying on coats of stucco.
+- Clean and prepare surfaces for applications of plaster, cement, stucco, or similar materials, such as by drywall taping.
+- Create decorative textures in finish coat, using brushes or trowels, sand, pebbles, or stones.
+- Apply insulation to building exteriors by installing prefabricated insulation systems over existing walls or by covering the outer wall with insulation board, reinforcing mesh, and a base coat.
+- Rough the undercoat surface with a scratcher so the finish coat will adhere.
+- Cure freshly plastered surfaces.
+- Install guide wires on exterior surfaces of buildings to indicate thickness of plaster or stucco and nail wire mesh, lath, or similar materials to the outside surface to hold stucco in place.
+- Spray acoustic materials or texture finish over walls or ceilings.
+- Mold or install ornamental plaster pieces, panels, or trim.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- A-Systems JobView
+- Accounting software
+- Autodesk 3ds Max Design
+- Autodesk Maya
+- Construction Software Center EasyEst
+- Corel Paint Shop Pro
+- Corel Painter
+- Cost estimating software
+- Dassault Systemes CATIA
+- Embedded systems development software
+- IBM Maximo Asset Management
+- Linux
+- Microsoft Excel
+- Microsoft Office software
+- Microsoft Word
+- Oracle Database
+- Sage Construction Anywhere
+- Salesforce software
+- Turtle Creek Software Goldenseal

@@ -1,0 +1,230 @@
+# O*NET Occupation Profile: Drywall and Ceiling Tile Installers
+SOC: 47-2081.00
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Read blueprints or other specifications to determine methods of installation, work procedures, or material or tool requirements.
+- Measure and mark surfaces to lay out work, according to blueprints or drawings, using tape measures, straightedges or squares, and marking devices.
+- Fit and fasten wallboard or drywall into position on wood or metal frameworks, using glue, nails, or screws.
+- Measure and cut openings in panels or tiles for electrical outlets, windows, vents, plumbing, or other fixtures, using keyhole saws or other cutting tools.
+- Assemble or install metal framing or decorative trim for windows, doorways, or vents.
+- Cut metal or wood framing and trim to size, using cutting tools.
+- Inspect furrings, mechanical mountings, or masonry surfaces for plumbness and level, using spirit or water levels.
+- Cut fixture or border tiles to size, using keyhole saws, and insert them into surrounding frameworks.
+- Cut and screw together metal channels to make floor or ceiling frames, according to plans for the location of rooms or hallways.
+- Hang drywall panels on metal frameworks of walls and ceilings in offices, schools, or other large buildings, using lifts or hoists to adjust panel heights, when necessary.
+- Trim rough edges from wallboard to maintain even joints, using knives.
+- Suspend angle iron grids or channel irons from ceilings, using wire.
+- Coordinate work with drywall finishers who cover the seams between drywall panels.
+- Install horizontal and vertical metal or wooden studs to frames so that wallboard can be attached to interior walls.
+- Scribe and cut edges of tile to fit walls where wall molding is not specified.
+- Hang dry lines to wall moldings to guide positioning of main runners.
+- Fasten metal or rockboard lath to the structural framework of walls, ceilings, or partitions of buildings, using nails, screws, staples, or wire-ties.
+- Install blanket insulation between studs and tack plastic moisture barriers over insulation.
+- Seal joints between ceiling tiles and walls.
+- Remove existing plaster, drywall, or paneling, using crowbars and hammers.
+- Apply or mount acoustical tile or blocks, strips, or sheets of shock-absorbing materials to ceilings or walls of buildings to reduce reflection of sound or to decorate rooms.
+- Mount tile, using adhesives, or by nailing, screwing, stapling, or wire-tying lath directly to structural frameworks.
+- Nail channels or wood furring strips to surfaces to provide mounting for tile.
+- Install metal lath where plaster applications will be exposed to weather or water, or for curved or irregular surfaces.
+- Apply cement to backs of tiles and press tiles into place, aligning them with layout marks or joints of previously laid tile.
+- Wash concrete surfaces before mounting tile to increase adhesive qualities of surfaces, using washing soda and zinc sulfate solution.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- Business management software
+- Construction Software Center EasyEst
+- DevWave Estimate Works
+- Job costing software
+- Logic Group Scanner Digitizing Software
+- Microsoft Office software
+- Microsoft Windows
+- Microsoft Word
+- On Center Quick Bid
+- Turtle Creek Software Goldenseal
+- Wilhelm Publishing Threshold

@@ -1,0 +1,239 @@
+# O*NET Occupation Profile: Carpenters
+SOC: 47-2031.00
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Follow established safety rules and regulations and maintain a safe and clean environment.
+- Measure and mark cutting lines on materials, using a ruler, pencil, chalk, and marking gauge.
+- Assemble and fasten materials to make frameworks or props, using hand tools and wood screws, nails, dowel pins, or glue.
+- Study specifications in blueprints, sketches, or building plans to prepare project layout and determine dimensions and materials required.
+- Shape or cut materials to specified measurements, using hand tools, machines, or power saws.
+- Verify trueness of structure, using plumb bob and level.
+- Inspect ceiling or floor tile, wall coverings, siding, glass, or woodwork to detect broken or damaged structures.
+- Erect scaffolding or ladders for assembling structures above ground level.
+- Install structures or fixtures, such as windows, frames, floorings, trim, or hardware, using carpenters' hand or power tools.
+- Maintain records, document actions, and present written progress reports.
+- Remove damaged or defective parts or sections of structures and repair or replace, using hand tools.
+- Maintain job records and schedule work crew.
+- Anchor and brace forms and other structures in place, using nails, bolts, anchor rods, steel cables, planks, wedges, and timbers.
+- Bore boltholes in timber, masonry or concrete walls, using power drill.
+- Install rough door and window frames, subflooring, fixtures, or temporary supports in structures undergoing construction or repair.
+- Dig or direct digging of post holes and set poles to support structures.
+- Cover subfloors with building paper to keep out moisture and lay hardwood, parquet, or wood-strip-block floors by nailing floors to subfloor or cementing them to mastic or asphalt base.
+- Construct forms or chutes for pouring concrete.
+- Arrange for subcontractors to deal with special areas, such as heating or electrical wiring work.
+- Build or repair cabinets, doors, frameworks, floors, or other wooden fixtures used in buildings, using woodworking machines, carpenter's hand tools, or power tools.
+- Finish surfaces of woodwork or wallboard in houses or buildings, using paint, hand tools, or paneling.
+- Select and order lumber or other required materials.
+- Work with or remove hazardous material.
+- Fill cracks or other defects in plaster or plasterboard and sand patch, using patching plaster, trowel, and sanding tool.
+- Prepare cost estimates for clients or employers.
+- Perform minor plumbing, welding, or concrete mixing work.
+- Apply shock-absorbing, sound-deadening, or decorative paneling to ceilings or walls.
+- Examine structural timbers and supports to detect decay, and replace timbers as required, using hand tools, nuts, and bolts.
+- Build sleds from logs and timbers for use in hauling camp buildings and machinery through wooded areas.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- Bosch Punch List
+- Craftsman CD Estimator
+- Drawing and drafting software
+- Estimating software
+- Intuit QuickBooks
+- Job costing software
+- Microsoft Excel
+- Microsoft Office software
+- Microsoft Windows
+- Microsoft Word
+- Quicken
+- Renaissance MasterCarpenter
+- Turtle Creek Software Goldenseal
+- VirtualBoss
+- Web browser software
+- Web page creation and editing software
+- Wilhelm Publishing Threshold

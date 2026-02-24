@@ -1,0 +1,223 @@
+# O*NET Occupation Profile: Rail-Track Laying and Maintenance Equipment Operators
+SOC: 47-4061.00
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Patrol assigned track sections so that damaged or broken track can be located and reported.
+- Repair or adjust track switches, using wrenches and replacement parts.
+- Weld sections of track together, such as switch points and frogs.
+- Observe leveling indicator arms to verify levelness and alignment of tracks.
+- Operate single- or multiple-head spike driving machines to drive spikes into ties and secure rails.
+- Operate track wrenches to tighten or loosen bolts at joints that hold ends of rails together.
+- Cut rails to specified lengths, using rail saws.
+- Lubricate machines, change oil, or fill hydraulic reservoirs to specified levels.
+- Drill holes through rails, tie plates, or fishplates for insertion of bolts or spikes, using power drills.
+- Clean tracks or clear ice or snow from tracks or switch boxes.
+- Clean, grade, or level ballast on railroad tracks.
+- Raise rails, using hydraulic jacks, to allow for tie removal and replacement.
+- Adjust controls of machines that spread, shape, raise, level, or align track, according to specifications.
+- Dress and reshape worn or damaged railroad switch points or frogs, using portable power grinders.
+- Clean or make minor repairs to machines or equipment.
+- Grind ends of new or worn rails to attain smooth joints, using portable grinders.
+- Operate single- or multiple-head spike pullers to pull old spikes from ties.
+- String and attach wire-guidelines machine to rails so that tracks or rails can be aligned or leveled.
+- Engage mechanisms that lay tracks or rails to specified gauges.
+- Drive graders, tamping machines, brooms, or ballast spreading machines to redistribute gravel or ballast between rails.
+- Drive vehicles that automatically move and lay tracks or rails over sections of track to be constructed, repaired, or maintained.
+- Turn wheels of machines, using lever controls, to adjust guidelines for track alignments or grades, following specifications.
+- Push controls to close grasping devices on track or rail sections so that they can be raised or moved.
+- Operate tie-adzing machines to cut ties and permit insertion of fishplates that hold rails.
+- Paint railroad signs, such as speed limits or gate-crossing warnings.
+- Spray ties, fishplates, or joints with oil to protect them from weathering.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- Enterprise resource planning ERP software
+- Microsoft Excel
+- Microsoft Office software
+- Timekeeping software

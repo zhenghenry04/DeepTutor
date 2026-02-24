@@ -1,0 +1,254 @@
+# O*NET Occupation Profile: Energy Auditors
+SOC: 47-4011.01
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Identify and prioritize energy-saving measures.
+- Prepare audit reports containing energy analysis results or recommendations for energy cost savings.
+- Identify any health or safety issues related to planned weatherization projects.
+- Identify opportunities to improve the operation, maintenance, or energy efficiency of building or process systems.
+- Calculate potential for energy savings.
+- Inspect or evaluate building envelopes, mechanical systems, electrical systems, or process systems to determine the energy consumption of each system.
+- Analyze technical feasibility of energy-saving measures, using knowledge of engineering, energy production, energy use, construction, maintenance, system operation, or process systems.
+- Examine commercial sites to determine the feasibility of installing equipment that allows building management systems to reduce electricity consumption during peak demand periods.
+- Recommend energy-efficient technologies or alternate energy sources.
+- Collect and analyze field data related to energy usage.
+- Measure energy usage with devices such as data loggers, universal data recorders, light meters, sling psychrometers, psychrometric charts, flue gas analyzers, amp probes, watt meters, volt meters, thermometers, or utility meters.
+- Educate customers on energy efficiency or answer questions on topics such as the costs of running household appliances or the selection of energy-efficient appliances.
+- Perform tests such as blower-door tests to locate air leaks.
+- Prepare job specification sheets for home energy improvements, such as attic insulation, window retrofits, or heating system upgrades.
+- Inspect newly installed energy-efficient equipment to ensure that it was installed properly and is performing according to specifications.
+- Analyze energy bills, including utility rates or tariffs, to gather historical energy usage data.
+- Quantify energy consumption to establish baselines for energy use or need.
+- Determine patterns of building use to show annual or monthly needs for heating, cooling, lighting, or other energy needs.
+- Compare existing energy consumption levels to normative data.
+- Oversee installation of equipment such as water heater wraps, pipe insulation, weatherstripping, door sweeps, or low-flow showerheads to improve energy efficiency.
+- Verify income eligibility of participants in publicly financed weatherization programs.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- Abraxas Energy Consulting Metrix
+- ACCA Manual J
+- Adobe Photoshop
+- Architectural Energy Corporation ENFORMA Building Diagnostics
+- Architectural Energy Corporation REM/Rate
+- Autodesk AutoCAD
+- C++
+- Computer aided design CAD software
+- Cool Roof Calculator
+- Customer relationship management CRM software
+- dBASE
+- DesignBuilder Software DesignBuilder
+- EffTec EffTrack
+- Ekotrope RATER
+- Elite Software Energy Audit
+- Enercom Energy Depot for Business
+- Enercom Energy Depot for Homes
+- Energy Efficient Rehab Advisor
+- EnergyPlus
+- Esri ArcGIS
+- Facility Energy Decision Systems FEDS
+- Federal Renewable Energy Screening Assistant FRESA
+- Fielding Data Labs OptoMizer
+- Fundamental Objects foAudits
+- Good Steward Software EnergyCAP
+- Home Energy Efficient Design HEED
+- IBM SPSS Statistics
+- InterEnergy Software Building Energy Analyzer PRO
+- Itron Enterprise Energy Management EEM Suite
+- Linux
+- Microsoft .NET Framework
+- Microsoft Access
+- Microsoft Dynamics
+- Microsoft Excel
+- Microsoft Internet Explorer
+- Microsoft Office software
+- Microsoft Outlook
+- Microsoft PowerPoint
+- Microsoft Publisher
+- Microsoft SharePoint

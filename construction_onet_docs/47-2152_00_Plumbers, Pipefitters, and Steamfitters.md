@@ -1,0 +1,263 @@
+# O*NET Occupation Profile: Plumbers, Pipefitters, and Steamfitters
+SOC: 47-2152.00
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Shut off steam, water, or other gases or liquids from pipe sections, using valve keys or wrenches.
+- Install underground storm, sanitary, or water piping systems, extending piping as needed to connect fixtures and plumbing.
+- Assemble pipe sections, tubing, or fittings, using couplings, clamps, screws, bolts, cement, plastic solvent, caulking, or soldering, brazing, or welding equipment.
+- Locate and mark the position of pipe installations, connections, passage holes, or fixtures in structures, using measuring instruments such as rulers or levels.
+- Cut, thread, or hammer pipes to specifications, using tools such as saws, cutting torches, pipe threaders, or pipe benders.
+- Lay out full scale drawings of pipe systems, supports, or related equipment, according to blueprints.
+- Plan pipe system layout, installation, or repair, according to specifications.
+- Review blueprints, building codes, or specifications to determine work details or procedures.
+- Select pipe sizes, types, or related materials, such as supports, hangers, or hydraulic cylinders, according to specifications.
+- Fill pipes or plumbing fixtures with water or air and observe pressure gauges to detect and locate leaks.
+- Direct helpers engaged in pipe cutting, preassembly, or installation of plumbing systems or components.
+- Inspect, examine, or test installed systems or pipe lines, using pressure gauge, hydrostatic testing, observation, or other methods.
+- Install pipe assemblies, fittings, valves, appliances such as dishwashers or water heaters, or fixtures such as sinks or toilets, using hand or power tools.
+- Anchor steel supports from ceiling joists to hold pipes in place.
+- Attach pipes to walls, structures, or fixtures, such as radiators or tanks, using brackets, clamps, tools, or welding equipment.
+- Modify, clean, or maintain pipe systems, units, fittings, or related machines or equipment, using hand or power tools.
+- Install automatic controls to regulate pipe systems.
+- Estimate time, material, or labor costs for use in project plans.
+- Keep records of work assignments.
+- Inspect structures to assess material or equipment needs, to establish the sequence of pipe installations, or to plan installation around obstructions, such as electrical wiring.
+- Maintain or repair plumbing by replacing defective washers, replacing or mending broken pipes, or opening clogged drains.
+- Repair or remove and replace system components.
+- Cut openings in structures to accommodate pipes or pipe fittings, using hand or power tools.
+- Install green plumbing equipment, such as faucet flow restrictors, dual-flush or pressure-assisted flush toilets, or tankless hot water heaters.
+- Inspect work sites for obstructions or holes that could cause structural weakness.
+- Install pipe systems to support alternative energy-fueled systems, such as geothermal heating or cooling systems.
+- Install fixtures, appliances, or equipment designed to reduce water or energy consumption.
+- Repair hydraulic or air pumps.
+- Weld small pipes or special piping, using specialized techniques, equipment, or materials, such as computer-assisted welding or microchip fabrication.
+- Operate motorized pumps to remove water from flooded manholes, basements, or facility floors.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- AEC Design Group CADPIPE
+- Atlas Construction Business Forms
+- Autodesk Building Systems
+- Bentley Systems AutoPIPE
+- Bookkeeping software
+- COADE CAESAR II
+- Computer aided design CAD software
+- Database software
+- Drawing and drafting software
+- Elite Software DPIPE
+- Elite Software FIRE
+- Elite Software HSYM
+- Elite Software Plumbing CAD
+- Elite Software Spipe
+- Elite Software Sprinkler CAD
+- Email software
+- Estimating software
+- FastEST FastPipe
+- FastEST software
+- Heat loss calculation software
+- Horizon Engineering Sigma Plumbing Calculator
+- Insight Direct ServiceCEO
+- Internet browser software
+- Intuit QuickBooks
+- Job costing software
+- Klear Estimator
+- KRS Enterprises Service First!
+- Maintenance management software
+- Microsoft Active Server Pages ASP
+- Microsoft Excel
+- Microsoft Office software
+- Microsoft Word
+- Pipepro Pipefitting
+- Piping construction costs estimation software
+- PipingOffice
+- PricePoint
+- Quicken
+- Quote Software QuoteExpress
+- Spreadsheet software
+- Vision InfoSoft Plumbing Bid Manager

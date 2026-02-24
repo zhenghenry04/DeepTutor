@@ -1,0 +1,228 @@
+# O*NET Occupation Profile: Tile and Stone Setters
+SOC: 47-2044.00
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Align and straighten tile using levels, squares, and straightedges.
+- Finish and dress the joints and wipe excess grout from between tiles, using damp sponge.
+- Cut and shape tile to fit around obstacles and into odd spaces and corners, using hand and power cutting tools.
+- Determine and implement the best layout to achieve a desired pattern.
+- Mix, apply, and spread plaster, concrete, mortar, cement, mastic, glue or other adhesives to form a bed for the tiles, using brush, trowel and screed.
+- Study blueprints and examine surface to be covered to determine amount of material needed.
+- Measure and mark surfaces to be tiled, following blueprints.
+- Lay and set mosaic tiles to create decorative wall, mural, and floor designs.
+- Apply mortar to tile back, position the tile, and press or tap with trowel handle to affix tile to base.
+- Mix and apply mortar or cement to edges and ends of drain tiles to seal halves and joints.
+- Apply a sealer to make grout stain- and water-resistant.
+- Level concrete and allow to dry.
+- Measure and cut metal lath to size for walls and ceilings, using tin snips.
+- Install and anchor fixtures in designated positions, using hand tools.
+- Prepare surfaces for tiling by attaching lath or waterproof paper, or by applying a cement mortar coat to a metal screen.
+- Remove and replace cracked or damaged tile.
+- Cut tile backing to required size, using shears.
+- Remove any old tile, grout and adhesive using chisels and scrapers and clean the surface carefully.
+- Cut, surface, polish, and install marble and granite or install pre-cast terrazzo, granite or marble units.
+- Spread mastic or other adhesive base on roof deck to form base for promenade tile, using serrated spreader.
+- Assist customers in selection of tile and grout.
+- Prepare cost and labor estimates, based on calculations of time and materials needed for project.
+- Brush glue onto manila paper on which design has been drawn and position tiles, finished side down, onto paper.
+- Select and order tile and other items to be installed, such as bathroom accessories, walls, panels, and cabinets, according to specifications.
+- Build underbeds and install anchor bolts, wires, and brackets.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- Aya Associates Comp-U-Floor
+- EasyCAD Iris 2D
+- Measure Square FloorEstimate Pro
+- Microsoft Excel
+- Microsoft Office software
+- Microsoft Outlook
+- Microsoft PowerPoint
+- Microsoft Word
+- Salesforce software
+- TileGem

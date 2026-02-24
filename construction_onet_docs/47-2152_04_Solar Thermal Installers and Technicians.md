@@ -1,0 +1,235 @@
+# O*NET Occupation Profile: Solar Thermal Installers and Technicians
+SOC: 47-2152.04
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Test operation or functionality of mechanical, plumbing, electrical, and control systems.
+- Apply weather seal, such as pipe flashings and sealants, to roof penetrations and structural devices.
+- Install solar collector mounting devices on tile, asphalt, shingle, or built-up gravel roofs, using appropriate materials and penetration methods.
+- Install copper or plastic plumbing using pipes, fittings, pipe cutters, acetylene torches, solder, wire brushes, sand cloths, flux, plastic pipe cleaners, or plastic glue.
+- Identify plumbing, electrical, environmental, or safety hazards associated with solar thermal installations.
+- Demonstrate start-up, shut-down, maintenance, diagnostic, and safety procedures to thermal system owners.
+- Install circulating pumps using pipe, fittings, soldering equipment, electrical supplies, and hand tools.
+- Install flat-plat, evacuated glass, or concentrating solar collectors on mounting devices, using brackets or struts.
+- Install solar thermal system controllers and sensors.
+- Fill water tanks and check tanks, pipes, and fittings for leaks.
+- Design active direct or indirect, passive direct or indirect, or pool solar systems.
+- Determine locations for installing solar subsystem components, including piping, water heaters, valves, and ancillary equipment.
+- Perform routine maintenance or repairs to restore solar thermal systems to baseline operating conditions.
+- Install heat exchangers and heat exchanger fluids according to installation manuals and schematics.
+- Apply operation or identification tags or labels to system components, as required.
+- Connect water heaters and storage tanks to power and water sources.
+- Cut, miter, and glue piping insulation to insulate plumbing pipes and fittings.
+- Install plumbing, such as dip tubes, port fittings, drain tank valves, pressure temperature relief valves, or tanks, according to manufacturer specifications and building codes.
+- Install monitoring system components, such as flow meters, temperature gauges, and pressure gauges, according to system design and manufacturer specifications.
+- Assess collector sites to ensure structural integrity of potential mounting surfaces or the best orientation and tilt for solar collectors.
+- Apply ultraviolet radiation protection to prevent degradation of plumbing.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- 1CadCam Unigraphics
+- Adobe Photoshop
+- Autodesk AutoCAD
+- Computer-aided drafting or design software
+- Cost estimating software
+- Dassault Systemes CATIA
+- Dassault Systemes SolidWorks
+- Inventory control system software
+- Microsoft Excel
+- Microsoft Office software
+- Microsoft Outlook
+- Microsoft PowerPoint
+- Microsoft Visual Basic for Applications VBA
+- Microsoft Word
+- National Instruments LabVIEW
+- Oracle Java
+- Project management software
+- PTC Pro/ENGINEER Wildfire
+- Salesforce software
+- Word processing software
+- Work scheduling software

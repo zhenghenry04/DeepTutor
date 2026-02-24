@@ -1,0 +1,220 @@
+# O*NET Occupation Profile: Boilermakers
+SOC: 47-2011.00
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Conduct pressure tests on vessels, such as boilers.
+- Study blueprints to determine locations, relationships, or dimensions of parts.
+- Examine boilers, pressure vessels, tanks, or vats to locate defects, such as leaks, weak spots, or defective sections, so that they can be repaired.
+- Inspect assembled vessels or individual components, such as tubes, fittings, valves, controls, or auxiliary mechanisms, to locate any defects.
+- Lay out plate, sheet steel, or other heavy metal and locate and mark bending and cutting lines, using protractors, compasses, and drawing instruments or templates.
+- Bell, bead with power hammers, or weld pressure vessel tube ends to ensure leakproof joints.
+- Locate and mark reference points for columns or plates on boiler foundations, following blueprints and using straightedges, squares, transits, or measuring instruments.
+- Shape or fabricate parts, such as stacks, uptakes, or chutes, to adapt pressure vessels, heat exchangers, or piping to premises, using heavy-metalworking machines such as brakes, rolls, or drill presses.
+- Position, align, and secure structural parts or related assemblies to boiler frames, tanks, or vats of pressure vessels, following blueprints.
+- Clean pressure vessel equipment, using scrapers, wire brushes, and cleaning solvents.
+- Repair or replace defective pressure vessel parts, such as safety valves or regulators, using torches, jacks, caulking hammers, power saws, threading dies, welding equipment, or metalworking machinery.
+- Attach rigging and signal crane or hoist operators to lift heavy frame and plate sections or other parts into place.
+- Straighten or reshape bent pressure vessel plates or structure parts, using hammers, jacks, or torches.
+- Shape seams, joints, or irregular edges of pressure vessel sections or structural parts to attain specified fit of parts, using cutting torches, hammers, files, or metalworking machines.
+- Bolt or arc weld pressure vessel structures and parts together, using wrenches or welding equipment.
+- Install manholes, handholes, taps, tubes, valves, gauges, or feedwater connections in drums of water tube boilers, using hand tools.
+- Assemble large vessels in an on-site fabrication shop prior to installation to ensure proper fit.
+- Install refractory bricks or other heat-resistant materials in fireboxes of pressure vessels.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- Autodesk AutoCAD
+- Computer aided design CAD software
+- Health and safety training software
+- Microsoft Excel
+- Microsoft Office software
+- Microsoft Outlook
+- Microsoft Windows
+- Microsoft Word
+- SAP software

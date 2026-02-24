@@ -1,0 +1,227 @@
+# O*NET Occupation Profile: Construction Laborers
+SOC: 47-2061.00
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Tend pumps, compressors, or generators to provide power for tools, machinery, or equipment or to heat or move materials, such as asphalt.
+- Lubricate, clean, or repair machinery, equipment, or tools.
+- Signal equipment operators to facilitate alignment, movement, or adjustment of machinery, equipment, or materials.
+- Read plans, instructions, or specifications to determine work activities.
+- Measure, mark, or record openings or distances to layout areas where construction work will be performed.
+- Clean or prepare construction sites to eliminate possible hazards.
+- Dig ditches or trenches, backfill excavations, or compact and level earth to grade specifications, using picks, shovels, pneumatic tampers, or rakes.
+- Load, unload, or identify building materials, machinery, or tools, distributing them to the appropriate locations, according to project plans or specifications.
+- Position, join, align, or seal structural components, such as concrete wall sections or pipes.
+- Perform site activities required of green certified construction practices, such as implementing waste management procedures, identifying materials for reuse, or installing erosion or sedimentation control mechanisms.
+- Control traffic passing near, in, or around work zones.
+- Install sewer, water, or storm drain pipes, using pipe-laying machinery or laser guidance equipment.
+- Operate or maintain air monitoring or other sampling devices in confined or hazardous environments.
+- Smooth or finish freshly poured cement or concrete, using floats, trowels, screeds, or powered cement finishing tools.
+- Erect or dismantle scaffolding, shoring, braces, traffic barricades, ramps, or other temporary structures.
+- Provide assistance to craft workers, such as carpenters, plasterers, or masons.
+- Spray materials, such as water, sand, steam, vinyl, paint, or stucco, through hoses to clean, coat, or seal surfaces.
+- Raze buildings or salvage useful materials.
+- Mop, brush, or spread paints, cleaning solutions, or other compounds over surfaces to clean them or to provide protection.
+- Position or dismantle forms for pouring concrete, using saws, hammers, nails, or bolts.
+- Grind, scrape, sand, or polish surfaces, such as concrete, marble, terrazzo, or wood flooring, using abrasive tools or machines.
+- Place, consolidate, or protect case-in-place concrete or masonry structures.
+- Mix ingredients to create compounds for covering or cleaning surfaces.
+- Mix, pour, or spread concrete, using portable cement mixers.
+- Operate jackhammers or drills to break up concrete or pavement.
+- Apply caulking compounds by hand or caulking guns to protect against entry of water or air.
+- Tend machines that pump concrete, grout, cement, sand, plaster, or stucco through spray guns for application to ceilings or walls.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- Autodesk Revit
+- Microsoft Excel
+- Microsoft Office software
+- Microsoft Outlook
+- Microsoft Windows
+- Microsoft Word
+- Oracle Primavera Enterprise Project Portfolio Management

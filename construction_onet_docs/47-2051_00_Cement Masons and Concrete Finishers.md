@@ -1,0 +1,229 @@
+# O*NET Occupation Profile: Cement Masons and Concrete Finishers
+SOC: 47-2051.00
+Source: O*NET Database (structured data)
+
+## Core Tasks
+- Check the forms that hold the concrete to see that they are properly constructed.
+- Set the forms that hold concrete to the desired pitch and depth, and align them.
+- Spread, level, and smooth concrete, using rake, shovel, hand or power trowel, hand or power screed, and float.
+- Monitor how the wind, heat, or cold affect the curing of the concrete throughout the entire process.
+- Mold expansion joints and edges, using edging tools, jointers, and straightedge.
+- Signal truck driver to position truck to facilitate pouring concrete, and move chute to direct concrete on forms.
+- Direct the casting of the concrete and supervise laborers who use shovels or special tools to spread it.
+- Produce rough concrete surface, using broom.
+- Apply hardening and sealing compounds to cure surface of concrete, and waterproof or restore surface.
+- Operate power vibrator to compact concrete.
+- Install anchor bolts, steel plates, door sills and other fixtures in freshly poured concrete or pattern or stamp the surface to provide a decorative finish.
+- Wet surface to prepare for bonding, fill holes and cracks with grout or slurry, and smooth, using trowel.
+- Waterproof or restore concrete surfaces, using appropriate compounds.
+- Mix cement, sand, and water to produce concrete, grout, or slurry, using hoe, trowel, tamper, scraper, or concrete-mixing machine.
+- Chip, scrape, and grind high spots, ridges, and rough projections to finish concrete, using pneumatic chisels, power grinders, or hand tools.
+- Cut out damaged areas, drill holes for reinforcing rods, and position reinforcing rods to repair concrete, using power saw and drill.
+- Wet concrete surface, and rub with stone to smooth surface and obtain specified finish.
+- Clean chipped area, using wire brush, and feel and observe surface to determine if it is rough or uneven.
+- Build wooden molds, and clamp molds around area to be repaired, using hand tools.
+- Sprinkle colored marble or stone chips, powdered steel, or coloring powder over surface to produce prescribed finish.
+- Fabricate concrete beams, columns, and panels.
+- Polish surface, using polishing or surfacing machine.
+- Cut metal division strips, and press them into terrazzo base so that top edges form desired design or pattern.
+- Push roller over surface to embed chips in surface.
+- Apply muriatic acid to clean surface, and rinse with water.
+- Spread roofing paper on surface of foundation, and spread concrete onto roofing paper with trowel to form terrazzo base.
+
+## Key Skills
+- Reading Comprehension
+- Reading Comprehension
+- Active Listening
+- Active Listening
+- Writing
+- Writing
+- Speaking
+- Speaking
+- Mathematics
+- Mathematics
+- Science
+- Science
+- Critical Thinking
+- Critical Thinking
+- Active Learning
+- Active Learning
+- Learning Strategies
+- Learning Strategies
+- Monitoring
+- Monitoring
+- Social Perceptiveness
+- Social Perceptiveness
+- Coordination
+- Coordination
+- Persuasion
+- Persuasion
+- Negotiation
+- Negotiation
+- Instructing
+- Instructing
+- Service Orientation
+- Service Orientation
+- Complex Problem Solving
+- Complex Problem Solving
+- Operations Analysis
+- Operations Analysis
+- Technology Design
+- Technology Design
+- Equipment Selection
+- Equipment Selection
+- Installation
+- Installation
+- Programming
+- Programming
+- Operations Monitoring
+- Operations Monitoring
+- Operation and Control
+- Operation and Control
+- Equipment Maintenance
+- Equipment Maintenance
+- Troubleshooting
+- Troubleshooting
+- Repairing
+- Repairing
+- Quality Control Analysis
+- Quality Control Analysis
+- Judgment and Decision Making
+- Judgment and Decision Making
+- Systems Analysis
+- Systems Analysis
+
+## Knowledge Areas
+- Administration and Management
+- Administration and Management
+- Administrative
+- Administrative
+- Economics and Accounting
+- Economics and Accounting
+- Sales and Marketing
+- Sales and Marketing
+- Customer and Personal Service
+- Customer and Personal Service
+- Personnel and Human Resources
+- Personnel and Human Resources
+- Production and Processing
+- Production and Processing
+- Food Production
+- Food Production
+- Computers and Electronics
+- Computers and Electronics
+- Engineering and Technology
+- Engineering and Technology
+- Design
+- Design
+- Building and Construction
+- Building and Construction
+- Mechanical
+- Mechanical
+- Mathematics
+- Mathematics
+- Physics
+- Physics
+- Chemistry
+- Chemistry
+- Biology
+- Biology
+- Psychology
+- Psychology
+- Sociology and Anthropology
+- Sociology and Anthropology
+- Geography
+- Geography
+- Medicine and Dentistry
+- Medicine and Dentistry
+- Therapy and Counseling
+- Therapy and Counseling
+- Education and Training
+- Education and Training
+- English Language
+- English Language
+- Foreign Language
+- Foreign Language
+- Fine Arts
+- Fine Arts
+- History and Archeology
+- History and Archeology
+- Philosophy and Theology
+- Philosophy and Theology
+- Public Safety and Security
+- Public Safety and Security
+- Law and Government
+- Law and Government
+
+## Work Activities
+- Getting Information
+- Getting Information
+- Monitoring Processes, Materials, or Surroundings
+- Monitoring Processes, Materials, or Surroundings
+- Identifying Objects, Actions, and Events
+- Identifying Objects, Actions, and Events
+- Inspecting Equipment, Structures, or Materials
+- Inspecting Equipment, Structures, or Materials
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Estimating the Quantifiable Characteristics of Products, Events, or Information
+- Judging the Qualities of Objects, Services, or People
+- Judging the Qualities of Objects, Services, or People
+- Processing Information
+- Processing Information
+- Evaluating Information to Determine Compliance with Standards
+- Evaluating Information to Determine Compliance with Standards
+- Analyzing Data or Information
+- Analyzing Data or Information
+- Making Decisions and Solving Problems
+- Making Decisions and Solving Problems
+- Thinking Creatively
+- Thinking Creatively
+- Updating and Using Relevant Knowledge
+- Updating and Using Relevant Knowledge
+- Developing Objectives and Strategies
+- Developing Objectives and Strategies
+- Scheduling Work and Activities
+- Scheduling Work and Activities
+- Organizing, Planning, and Prioritizing Work
+- Organizing, Planning, and Prioritizing Work
+- Performing General Physical Activities
+- Performing General Physical Activities
+- Handling and Moving Objects
+- Handling and Moving Objects
+- Controlling Machines and Processes
+- Controlling Machines and Processes
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Operating Vehicles, Mechanized Devices, or Equipment
+- Working with Computers
+- Working with Computers
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Mechanical Equipment
+- Repairing and Maintaining Electronic Equipment
+- Repairing and Maintaining Electronic Equipment
+- Documenting/Recording Information
+- Documenting/Recording Information
+- Interpreting the Meaning of Information for Others
+- Interpreting the Meaning of Information for Others
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with Supervisors, Peers, or Subordinates
+- Communicating with People Outside the Organization
+- Communicating with People Outside the Organization
+- Establishing and Maintaining Interpersonal Relationships
+- Establishing and Maintaining Interpersonal Relationships
+- Assisting and Caring for Others
+- Assisting and Caring for Others
+- Selling or Influencing Others
+- Selling or Influencing Others
+
+## Tools / Technology Examples
+- ACT Contractors Forms
+- ADAPT-Modeler
+- Hard Dollar HD Project Estimating
+- HIPERPAV
+- LogicSphere Firstmix
+- Maxwell Systems Quest Estimator
+- National Concrete & Masonry Estimator
+- Shilstone seeMIX
+- Sirus GT Construction Accounting
+- Tradesman's Software Master Estimator
